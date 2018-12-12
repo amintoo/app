@@ -1,0 +1,4 @@
+ul.mn {
+  text-decoration: none;
+}
+ul.mn li {display: inline-block; float:left; margin-left:10px;  }
